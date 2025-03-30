@@ -1,9 +1,16 @@
-# Ignore virtual environments
+# Virtual environments
 .venv/
 venv/
+
+# Python cache
 __pycache__/
-*.pyc
-*.log
+*.py[cod]
+
+# OS files
+.DS_Store
+
+# Data files
 *.csv
 *.json
 *.jsonl
+*.log
