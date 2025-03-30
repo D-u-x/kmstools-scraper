@@ -1,0 +1,9 @@
+# Ignore virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.log
+*.csv
+*.json
+*.jsonl
